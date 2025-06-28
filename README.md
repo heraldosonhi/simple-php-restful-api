@@ -1,5 +1,7 @@
 ## Giant Seguros SA Prototype
 
+A project prototype for a insurance company, the repository contains 2 branches allocated for front and backend development.   
+
 ### Default branch
 A complete frontend React Application built with TypeScript, Next.js and Tailwind
 
